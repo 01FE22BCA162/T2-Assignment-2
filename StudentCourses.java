@@ -1,3 +1,7 @@
+/**
+ * The StudentCourses class stores course codes and marks obtained by a student and provides a method
+ * to display the course names and marks.
+ */
 public class StudentCourses {
 
     private String[] courseCodes = { "C#.Net   /C Sharp","Software Testing", "Machine Learning", "DEVOPS       LAB", "Logical Reasoning" };
